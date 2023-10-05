@@ -58,7 +58,6 @@
     width: 500px ;
     height: 500px ;
     background: transparent ;
-    margin-left: 300px ;
 }
 
 .skill-image img {
@@ -79,7 +78,6 @@
 .skill-content p {
     font-size: 30px ;
     line-height: 1.5 ;
-    margin-top: 700px ;
     text-align: center ;
     align-items: center ;
 }
