@@ -58,20 +58,19 @@
     width: 500px ;
     height: 500px ;
     background: transparent ;
-    margin-left: 100px ;
-    margin-top: 100px ;
+    margin-right: 50 ;
 }
 
 .home-image img {
     position: relative ;
-    max-width: 450px ;
+    max-width: 380px ;
 }
 
 .home-content {
     max-width: 500px ;
     color: black ;
     text-align: left ;
-    margin-right: 100px ;
+    margin-left: 50px ;
 }
 
 .home-content h1 {
@@ -111,4 +110,8 @@
 .home-sci a:hover {
     background:rgb(255, 171, 115) ;
     color: white ;
+}
+.carousel-item img {
+  	    width: 500px ;
+  			height: 500px ;
 }
